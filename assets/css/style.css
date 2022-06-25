@@ -13003,6 +13003,7 @@ blockquote {
 .infotechno-hero-inner-images {
   margin-top: 20px;
   position: relative;
+  margin-bottom: auto;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -13019,17 +13020,22 @@ blockquote {
   .infotechno-hero-inner-images .infotechno-inner-one {
     max-width: 260px;
     margin: auto;
+
   }
 }
 
 .infotechno-inner-one {
   position: absolute;
   top: 10px;
+
 }
 
 .infotechno-inner-two {
   z-index: 1;
   position: relative;
+  width: 706px;
+  height: 600px;
+  top: 60px;
 }
 
 .infotechno-hero-text {
